@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665229797732",
+    "project_id": "flutter-chat-app-63ba0",
+    "storage_bucket": "flutter-chat-app-63ba0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665229797732:android:1aa0f319b9f5c19b4af271",
+        "android_client_info": {
+          "package_name": "com.example.chatbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyW91yVGVMrJSf69Ebnx33UJR9QnS8Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665229797732:android:592fa9c8ae0bfcbd4af271",
+        "android_client_info": {
+          "package_name": "com.example.vibeline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyW91yVGVMrJSf69Ebnx33UJR9QnS8Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
